@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**AmruthaChandana/AmruthaChandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student pursuing a Bachelor's degree in **Computer Science and Engineering**.  
+Passionate about **full-stack web development**, especially using the **MERN stack** (MongoDB, Express.js, React, Node.js), I love creating clean, responsive, and user-friendly applications.
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**  
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend & Database: Node.js, Express.js, MongoDB, Python  
+- Tools & Platforms: Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I also have foundational knowledge in **AI, Machine Learning**, and **Data Analytics**, and I enjoy exploring how data and intelligent systems can enhance user experiences.
+
+🧠 I value **time management, teamwork, and clear communication**, which have helped me succeed in both academic and real-world projects.
+
+🚀 Always eager to **learn**, **grow**, and **take on new challenges** to apply and expand my skill set.
+
+---
+
+📫 **Let's connect!**  
+Feel free to reach out via [LinkedIn](linkedin.com/in/amrutha-chandana-m-a5a09b25b/) or check out some of my projects below!
