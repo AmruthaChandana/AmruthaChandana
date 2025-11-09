@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 🎓 I'm an undergraduate student pursuing a **Bachelor's degree in Computer Science and Engineering**.  
-💡 Passionate about building **clean**, **responsive**, and **user-friendly** web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+💡 Passionate about building **clean**, **responsive**, and **user-friendly** web applications using the **Java**.  
 🧠 I have a solid foundation in **Frontend Development** (HTML, CSS, JavaScript, React), along with basic knowledge in **AI, Machine Learning**, and **Data Analytics**.
 
 ---
@@ -16,10 +16,9 @@
 ### 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express.js, Python  
-- **Database:** MongoDB  
+- **Backend:** Node.js, Java  
+- **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code  
-- **Other:** Basic ML & Data Analytics
 
 ---
 
